@@ -1,0 +1,3 @@
+ function replyToTheHey(){
+        alert("Hey");
+    }
